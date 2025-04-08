@@ -63,9 +63,9 @@ ng serve
 http://localhost:4200
 
 # Test Credentials
-Role	       Admin	 | Employee
-Username	    admin01	  | emp01
-Password     admin123  | emp123
+Role	  -     Admin	 | Employee
+Username  -	    admin01	  | emp01
+Password   -   admin123  | emp123
          
 	 	       
 
